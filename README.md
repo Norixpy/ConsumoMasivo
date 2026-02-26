@@ -32,7 +32,7 @@ KPI 5 – Margen promedio por categoría
 
 Python (Pandas, Jupyter Notebook) https://colab.research.google.com/drive/17Gho_cjTorcNhD7XjUrP5jAarwv_WM8W
 
-Power BI
+Power BI https://github.com/Norixpy/ConsumoMasivo/blob/main/cm.pbix
 
 Git y GitHub
 
@@ -52,9 +52,9 @@ cm.pbix → dashboard en Power BI
 
 cm.pdf → exportación del dashboard
 
-KPIs_consumo_masivo.docx → descripción e interpretación de KPIs
+KPIs_consumo_masivo.docx → descripción e interpretación de KPIs https://github.com/Norixpy/ConsumoMasivo/blob/main/KPIs_consumo_masivo.docx
 
-📈 Resultado
+📈 Resultado 
 
 Se obtiene un dashboard que permite:
 
